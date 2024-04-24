@@ -16,6 +16,7 @@ _This requires [brew](http://brew.sh) if you're on a mac, or a debian flavored l
 
 ```
 asdf plugin-add redis https://github.com/DarkRacer/asdf-redis.git
+asdf install redis <version>
 ```
 
 ## Try it out
